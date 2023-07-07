@@ -57,9 +57,6 @@ public class SimpleCalculator {
 
         System.out.println("Your total is: " + sum);
 
-//        optionMethod();
-
-//        scanner.close();
     }
 
     public static void subtractMethod() {
@@ -77,9 +74,6 @@ public class SimpleCalculator {
 
         System.out.println("Your total is: " + sum);
 
-//        optionMethod();
-
-//        scanner.close();
     }
 
     public static void multiplyMethod() {
@@ -97,9 +91,6 @@ public class SimpleCalculator {
 
         System.out.println("Your total is: " + sum);
 
-//        optionMethod();
-
-//        scanner.close();
     }
 
     public static void divideMethod() {
@@ -117,42 +108,8 @@ public class SimpleCalculator {
 
         System.out.println("Your total is: " + sum);
 
-//        optionMethod();
-
-//        scanner.close();
     }
 
-//    public static void optionMethod() {
-//        String input;
-//        do {
-//            System.out.println("Would you lke to");
-//            System.out.println("\t1: Add to your sum");
-//            System.out.println("\t2: Subtract your sum");
-//            System.out.println("\t3: Multiply your sum");
-//            System.out.println("\t4: Divide your sum");
-//            System.out.println("\t5: Restart Calculator");
-//            input = scanner.nextLine();
-//
-//            switch (input) {
-//                case "1":
-//                    addMethod();
-//                    break;
-//                case "2":
-//                    subtractMethod();
-//                    break;
-//                case "3":
-//                    multiplyMethod();
-//                    break;
-//                case "4":
-//                    divideMethod();
-//                    break;
-//                case "5":
-//                    System.out.println("Restarting...");
-//                default:
-//                    System.out.println("Invalid input");
-//            }
-//        }while (!input.equalsIgnoreCase("5"));
-//    }
 
 
 }
